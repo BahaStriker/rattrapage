@@ -1,6 +1,8 @@
 #  “Architecture d’application”
 
 ## Pour Commencer
+- Required PHP 7.4
+
 ```bash
 composer install
 ```
